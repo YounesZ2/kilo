@@ -1,0 +1,2 @@
+Kilo: We included a variety of files to help us buffer, check windows size, and store file buffers to the terminal screen.
+Buffer: stored blob of temporary memory. 
